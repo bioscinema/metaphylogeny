@@ -6,7 +6,7 @@ Published in *Computational and Structural Biotechnology Journal*
 
 ## Overview  
 - The **Supplementary** folder contains all supplementary materials and figures referenced in the paper.  
-- Processed real data from 16S rRNA and WGS analyses (using QIIME 2, LotuS 2, MetaPhlAn 4, and Woltka) are stored in the **phyloseq_objects** folder in **'phyloseq'** object format.  
+- Processed real data from 16S rRNA and WGS analyses (using QIIME 2, LotuS 2, MetaPhlAn 4, and Woltka) are stored in the **Phyloseq_objects** folder in **'phyloseq'** object format.  
 - Code for visualizations included in the supplementary material is available in the **Code** folder as `Code_real_data.R`.  
 - Code for visualizations in the main manuscript is located in the same **Code** folder as `Code_tree_visualization.R`.  
 
