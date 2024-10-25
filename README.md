@@ -15,6 +15,7 @@ Published in *Computational and Structural Biotechnology Journal*
 - Visualizations of taxonomy trees are based on the **BAZE** R package.  
   - Detailed tutorials for BAZE can be found at: [https://github.com/bioscinema/BAZE](https://github.com/bioscinema/BAZE)  
   - If you use the **BAZE** package, please cite both the package and our paper.
+- The raw sequencing data used in our mini-review paper is available in [https://qiita.ucsd.edu/study/description/11808](https://qiita.ucsd.edu/study/description/11808).
 
 ## Citation  
 Please cite this article as: R. Liu, X. Qiao, Y. Shi et al., Constructing phylogenetic trees for microbiome data analysis: A mini-review, Computational and Structural Biotechnology
